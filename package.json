@@ -1,0 +1,11 @@
+{
+  "name": "validate-react-form",
+  "version": "1.0.0",
+  "description": "高度灵活的自定义表单验证",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xuqinggang",
+  "license": "ISC"
+}
